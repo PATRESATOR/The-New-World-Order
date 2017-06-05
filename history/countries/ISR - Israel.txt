@@ -1,0 +1,42 @@
+﻿capital = 454
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	gwtank = 1
+}
+
+set_convoys = 90
+set_national_unity = 0.90
+
+set_politics = {
+
+	parties = {
+		democratic = { 
+			popularity = 80
+		}
+
+		fascism = {
+			popularity = 0
+		}
+		
+		islamism = {
+			popularity = 20
+		}
+	}
+	
+	ruling_party = democratic
+	last_election = "2029.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+#create_country_leader = {
+	#name = "Jozef Tiso"
+	#desc = "POLITICS_JOZEF_TISO_DESC"
+	#picture = "Portrait_Slovakia_Jozef_Tiso.dds"
+	#expire = "1965.1.1"
+	#ideology = fascism_ideology
+	#traits = {
+		#
+	}
+#}
