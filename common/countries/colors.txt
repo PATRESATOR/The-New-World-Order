@@ -85,10 +85,6 @@ ALB = {
 	color = rgb { 149 45 102 }
 	color_ui = rgb { 194 59 133 }
 }
-NOR = {
-	color = rgb { 111 71 71 }
-	color_ui = rgb { 144 92 92 }
-}
 DEN = {
 	color = rgb { 153 116 93 }
 	color_ui = rgb { 199 151 121 }
@@ -547,4 +543,24 @@ CHI = {
 IND = {
 	color = rgb { 255 153 51 }
 	color_ui = rgb { 220 138 55 }
+}
+NOR = {
+	color = rgb { 111 71 71 }
+	color_ui = rgb { 144 92 92 }
+}
+SCT = {
+	color = rgb { 255 255 0 }
+	color_ui = rgb { 244 244 26 }
+}
+WAL = {
+	color = rgb { 161  212  144 }
+	color_ui = rgb { 161  212  144 }
+}
+LAO = {
+	color = rgb { 30  71  190 }
+	color_ui = rgb { 30  71  190 }
+}
+CAM = {
+	color = rgb { 160  71  102 }
+	color_ui = rgb { 160  71  102 }
 }
