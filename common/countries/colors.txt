@@ -394,11 +394,6 @@ INS = {
 	color_ui = rgb { 128  158  118 }
 }
 
-VIN = {
-	color = rgb { 230  223  50 }
-	color_ui = rgb { 230  223  50 }
-}
-
 CAM = {
 	color = rgb { 100  71  150 }
 	color_ui = rgb { 100  71  150 }
@@ -563,4 +558,8 @@ LAO = {
 CAM = {
 	color = rgb { 160  71  102 }
 	color_ui = rgb { 160  71  102 }
+}
+VIN = {
+	color = rgb { 230  223  50 }
+	color_ui = rgb { 230  223  50 }
 }
