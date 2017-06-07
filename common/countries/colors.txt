@@ -221,10 +221,6 @@ SAF = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
-SAU = {
-	color = rgb { 171 190 152 }
-	color_ui = rgb { 222 247 198 }
-}
 SIA = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 222 247 198 }
@@ -562,4 +558,8 @@ CAM = {
 VIN = {
 	color = rgb { 230  223  50 }
 	color_ui = rgb { 230  223  50 }
+}
+SAU = {
+	color = rgb { 171 190 152 }
+	color_ui = rgb { 222 247 198 }
 }
