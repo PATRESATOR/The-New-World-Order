@@ -1623,4 +1623,22 @@
  ENG_islamism_ADJ:0 "English"
  ENG_islamism_DEF:0 "England"
  
- aaaa
+ THA_democratic:0 "Republic of Thailand"
+ THA_democratic_ADJ:0 "English"
+ THA_democratic_DEF:0 "Republic of Thailand"
+ THA_fascism:0 "Empire of Thailand"
+ THA_fascism_ADJ:0 "English"
+ THA_fascism_DEF:0 "Empire of Thailand"
+ THA_communism:0 "Thailand"
+ THA_communism_ADJ:0 "English"
+ THA_communism_DEF:0 "Thailand"
+ THA_neutrality:0 "Siam"
+ THA_neutrality_ADJ:0 "English"
+ THA_neutrality_DEF:0 "Siam"
+ THA_militant_atheism:0 "Thailand"
+ THA_militant_atheism_ADJ:0 "English"
+ THA_militant_atheism_DEF:0 "Thailand"
+ THA_islamism:0 "Thailand Emirate"
+ THA_islamism_ADJ:0 "English"
+ THA_islamism_DEF:0 "Thailand Emirate"
+ 
