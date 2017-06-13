@@ -559,3 +559,11 @@ SAU = {
 	color = rgb { 171 190 152 }
 	color_ui = rgb { 222 247 198 }
 }
+PRK = {
+	color = rgb { 255 0 0 }
+	color_ui = rgb { 240 0 0 }
+}
+KOR = {
+	color = rgb { 0 0 255 }
+	color_ui = rgb { 0 0 240 }
+}
